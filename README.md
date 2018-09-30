@@ -14,8 +14,6 @@ You can find more informations on the Pomodoro Technique on http://www.pomodorot
 - Track Pomodoro history & stats
 - Configurable long break intervals
 - Configurable timer durations
-- Audio notifications with over 20 sounds
-- Ticking timer sounds
 - Scheduled automatic timers
 - Open source software
 
